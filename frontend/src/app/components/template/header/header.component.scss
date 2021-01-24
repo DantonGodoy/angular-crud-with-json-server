@@ -1,0 +1,29 @@
+:host {
+  .header {
+    display: flex;
+    align-items: center;
+
+    & .title-group {
+      width: 100%;
+    }
+  
+    & a {
+      display: flex;
+      align-items: center;
+      float: right;
+    }
+
+    & .logo {
+      max-height: 32px;
+    }
+
+    & .title-group {
+      padding-left: 24px;
+
+      & i {
+        padding-right: 6px;
+      }
+    }
+  }
+}
+

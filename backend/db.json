@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Dell Inspiron",
+      "price": 4500.9
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi Mi8 Lite",
+      "price": 1499.9
+    }
+  ]
+}

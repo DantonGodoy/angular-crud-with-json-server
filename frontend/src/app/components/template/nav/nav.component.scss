@@ -1,0 +1,19 @@
+:host {
+  .sidenav {
+    // background-color: #3F51B5;
+    width: 15vw;
+
+    & a {
+      color: #FFF;
+    }
+
+    & i {
+      padding-right: 8px;
+    }
+  }
+
+  .content {
+    padding: 16px;
+    // background-color: #FFF;
+  }
+}
