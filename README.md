@@ -1,4 +1,4 @@
-# Frontend
+# Angular CRUD with JSON Server
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5 and [JSON Server](https://www.npmjs.com/package/json-server).
 
